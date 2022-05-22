@@ -1,4 +1,4 @@
-[
+{
   {
     id: 1,
     firstName: 'Max',
@@ -11,4 +11,4 @@
     lastName: 'Spring',
     email: 'julspr@gmail.com'
   }
-]
+}
